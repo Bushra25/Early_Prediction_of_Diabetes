@@ -1,8 +1,4 @@
-# <font color=darkblue><p style="text-align:center;">Capstone Project</p></font>
 # <p style="text-align:center;"> Early Prediction of Diabetes</p> 
-
-
-<img src="https://www.bonitas.co.za/wp-content/uploads/2017/04/Holistic-treatment-and-management-of-diabetes-critical-e1510566865944_960x400_crop_80.jpg" style="float: center; height: 400px; width: 800px">
 
 
 ### Background
